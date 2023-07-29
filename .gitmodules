@@ -1,0 +1,24 @@
+[submodule "counter-angular"]
+	path = counter-angular
+	url = git@github.com:gitzhou/counter-angular.git
+[submodule "counter-react"]
+	path = counter-react
+	url = git@github.com:gitzhou/counter-react.git
+[submodule "counter-next"]
+	path = counter-next
+	url = git@github.com:gitzhou/counter-next.git
+[submodule "counter-svelte"]
+	path = counter-svelte
+	url = git@github.com:gitzhou/counter-svelte.git
+[submodule "counter-vue3-vite"]
+	path = counter-vue3-vite
+	url = git@github.com:gitzhou/counter-vue3-vite.git
+[submodule "counter-vue3-webpack"]
+	path = counter-vue3-webpack
+	url = git@github.com:gitzhou/counter-vue3-webpack.git
+[submodule "counter-vue2-vite"]
+	path = counter-vue2-vite
+	url = git@github.com:gitzhou/counter-vue2-vite.git
+[submodule "counter-vue2-webpack"]
+	path = counter-vue2-webpack
+	url = git@github.com:gitzhou/counter-vue2-webpack.git
